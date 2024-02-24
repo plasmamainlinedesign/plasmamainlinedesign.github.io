@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi! Welcome to my fan blog dedicated to the [Flesh and Blood TCG](http://fabtcg.com). It is mostly an exercise in writing and creativity for myself, but I am thrilled to have you along for the ride.
+Hi! Welcome to my fan blog dedicated to the [Flesh and Blood TCG](https://fabtcg.com). It is mostly an exercise in writing and creativity for myself, but I am thrilled to have you along for the ride.
 
 ## What type of content can you expect?
 Personally, I enjoy thinking about the unexplored design space within a game's framework. In this blog, I aim to identify parts of the design that have not been explored to its full potential and share ideas that I would like Legend Story Studios (LSS) to explore in future sets.
