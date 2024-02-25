@@ -56,7 +56,7 @@ Before letting players move on to a next stage, they receive a checklist of thin
 Consider for example the achievements to progress from the initial Ira deck. They might look something like this:
 - [ ] Where is my armor? _When you have checked all achievements below, open Envelope 1: Armor._
   + [ ] Use Ira's ability to bring an attack from 3 to 4 power. _Since most cards block for 3, attacking at break points (4 or 7 power) makes your attacks harder to block in full._
-  + [x] Play Springboard Somersault from arsenal. _Playing Springboard Somersault from arsenal saves you two extra life!_
+  + [ ] Play Springboard Somersault from arsenal. _Playing Springboard Somersault from arsenal saves you two extra life!_
   + [ ] Play an attack reaction after your opponent blocks to get __go again__ on Torrent of Tempo or draw cards from Whirling Mist Blossom. _Cards with on-hit effects incentivise your opponent to block, but always anticipate the possibility of a reaction!_
   + [ ] Pitch a red card and draw it after going through your deck once. _Since all pitched cards go to the bottom of your deck, you can stack your deck with powerful cards to use closer to the end of the game._
   + [ ] Take damage on purpose to play Scar for a Scar with __go again__. _Your life is a resource. Use it wisely!_
