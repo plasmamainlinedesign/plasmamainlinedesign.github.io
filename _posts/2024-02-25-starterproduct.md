@@ -2,6 +2,9 @@
 title: The ideal Flesh and Blood starter product
 author: PMD
 date: 2024-02-24 18:00:00 +/-0000
+image:
+  path: /assets/img/posts/2024/cover-starter.png
+  alt: Potential upgrade path for a Flesh and Blood starter product.
 categories: [Products]
 tags: [product, beginner]
 pin: true
