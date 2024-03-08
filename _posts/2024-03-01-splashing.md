@@ -3,7 +3,7 @@ title: Splashing cards
 author: PMD
 date: 2024-03-01 18:00:00 +/-0000
 image:
-  path: "/assets/img/posts/2024/cover-splashing.png"
+  path: "/assets/img/posts/2024/cover-splashing.webp"
   alt: Example of a draft set structure where splashing a single class is allowed.
 categories: [Deckbuilding]
 tags: [deckbuilding, limited, sealed, draft, constructed, hero, keyword, set design]
