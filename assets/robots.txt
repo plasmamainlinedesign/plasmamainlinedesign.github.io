@@ -7,9 +7,9 @@ User-agent: *
 Disallow: /norobots/
 
 User-agent: Twitterbot
-Allow: /assets/img
+Allow: /assets
 
 User-agent: facebookexternalhit
-Allow: assets/img
+Allow: /assets
 
 Sitemap: {{ '/sitemap.xml' | absolute_url }}
