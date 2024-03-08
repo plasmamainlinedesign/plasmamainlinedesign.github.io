@@ -3,7 +3,7 @@ title: Variable pitch values
 author: PMD
 date: 2024-03-08 17:59:00 +/-0000
 image:
-  path: "/assets/img/posts/2024/cover-variablepitch.png"
+  path: /assets/img/posts/2024/cover-variablepitch.png
 categories: [Card design]
 tags: [card, pitch]
 ---
