@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Plasma Mainline Design # the main title
 
-tagline: Exploring Flesh and Blood's design space # it will display as the sub-title
+tagline: Exploring the design space of the Flesh and Blood TCG # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog dedicated to the exploration of the design space of Flesh and Blood, a trading card game by Legend Story Studios.
@@ -86,7 +86,7 @@ social_preview_image: "/assets/img/favicons/android-chrome-512x512.png" # string
 toc: true
 
 comments:
-  active: 'giscus' # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
