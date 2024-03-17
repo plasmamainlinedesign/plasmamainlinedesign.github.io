@@ -57,6 +57,8 @@ Where a card like this could truly shine though, is in a Ranger deck. Rangers ha
 
 ![New Horizon](https://dhhim4ltzu1pj.cloudfront.net/media/images/U-ELE213.width-450.format-webp.webp){: width="200" .normal} ![Dead Eye](https://dhhim4ltzu1pj.cloudfront.net/media/images/DYN155.width-450.format-webp.webp){: width="200" .normal} ![Melting Point](https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT105.width-450.format-webp.webp){: width="200" .normal}
 
+(_Clarification_: Though the Gem subtype and border have only appeared at Fabled rarity, I am not suggesting printing powerful cards at this rarity. I would expect all examples here to fall in the Majestic or Legendary rarity level.)
+
 ### Combat chain interaction
 Another opportunity for interaction between resources and game state is of course the combat chain. A first idea may be to generate resources based on the length of the combat chain, but this could get out of hand quickly in the Ninja decks. Instead, I would like to focus on generating resources when the combat chain closes:
 
