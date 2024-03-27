@@ -16,4 +16,4 @@ If you stumbled across this website, you probably know that [Plasma Mainline](ht
 I started playing Flesh and Blood in the summer of 2021, between the releases of Monarch Unlimited and Tales of Aria First Edition. My first decks were Viserai and Boltyn, but I have enjoyed various other decks and formats since then. I consider myself a casual competitive player, by which I mean that I enjoy competing in local events (Armories, PQs, RtNs, and the occasional Calling, BH, or Nationals), but will not actively prepare to win a major event like a Pro Tour or the World Championship anytime soon.
 
 \
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'I2I5V27QH');kofiwidget2.draw();</script> 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a coffee', '#29abe0', 'I2I5V27QH');kofiwidget2.draw();</script> 
