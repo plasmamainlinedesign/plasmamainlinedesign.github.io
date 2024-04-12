@@ -1,8 +1,7 @@
 ---
 title: Announcing the ClassID series
 author: PMD
-# date: 2024-04-12 17:59:00 +/-0000
-date: 2024-04-11 17:59:00 +/-0000
+date: 2024-04-12 17:59:00 +/-0000
 image:
   path: /assets/img/posts/2024/cover-classid.png
 categories: [ClassID]
