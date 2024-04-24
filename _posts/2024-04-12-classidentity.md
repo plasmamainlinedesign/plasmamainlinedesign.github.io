@@ -12,6 +12,7 @@ carousels:
     - image: https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/HVY090.webp
     - image: https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/U-MON029.webp
     - image: https://d2wlb52bya4y8z.cloudfront.net/media/cards/large/U-MON031.webp
+pin: true
 ---
 
 When you get into Flesh and Blood (or any card game for that matter), the first question you are faced with is which deck you are going to play. Perhaps this question is easier to answer in Flesh and Blood than in some other games because you can just make your decision based on the vibes you get from each hero. However, you could give your decision quite a bit more thought, if you are so inclined, by considering their mechanical design. Whilst at a glance you might consider a hero's ability their single most defining feature, I would argue it is actually their class (or perhaps their talent-class combination). That is because classes in Flesh and Blood have an extremely strong identity and design philosophy, and their ability is informed by the strengths of the class cards to which they have access. Hence, I am launching a series of articles, which I have dubbed ClassID, to take some time to look at each class's design, and how heroes within a class differ (wow, do they differ wildly sometimes). In this introductory article, I will outline how I will be characterising classes in this series, and explain my reasoning behind this methodology.
