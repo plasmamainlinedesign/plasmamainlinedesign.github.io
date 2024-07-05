@@ -5,7 +5,7 @@ date: 2024-06-07 17:59:00 +/-0000
 image:
   path: /assets/img/posts/2024/cover-cardcreation.png
 categories: [Card design]
-tags: [card design]
+tags: [card]
 carousels:
   - images:
     - image: https://d2wlb52bya4y8z.cloudfront.net/media/cards/normal/MST188.webp
